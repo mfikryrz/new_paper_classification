@@ -1,1 +1,1 @@
-# new_paper_classification
+# news_paper_classification
